@@ -1,0 +1,19 @@
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\bin\Debug\Importar datos.exe.config
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\bin\Debug\Importar datos.exe
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\bin\Debug\Importar datos.pdb
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.csprojAssemblyReference.cache
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\obj\Debug\Importar_datos.Form1.resources
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\obj\Debug\Importar_datos.Properties.Resources.resources
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.csproj.GenerateResource.cache
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.csproj.CoreCompileInputs.cache
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.exe
+C:\Users\Delitos Informáticos\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.pdb
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\bin\Debug\Importar datos.exe.config
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\bin\Debug\Importar datos.exe
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\bin\Debug\Importar datos.pdb
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.csprojAssemblyReference.cache
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\obj\Debug\Importar_datos.Form1.resources
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\obj\Debug\Importar_datos.Properties.Resources.resources
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.csproj.GenerateResource.cache
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.exe
+C:\Users\JC Source Code\source\repos\Importar datos\Importar datos\obj\Debug\Importar datos.pdb
